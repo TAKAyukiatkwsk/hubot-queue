@@ -1,0 +1,11 @@
+{
+  "name": "hubot-queue",
+  "version": "0.0.0",
+  "description": "A hubot script for queue",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TAKAyukiatkwsk",
+  "license": "MIT"
+}
