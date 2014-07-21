@@ -1,6 +1,6 @@
 {
   "name": "hubot-queue",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A hubot script for queue",
   "main": "index.coffee",
   "scripts": {
@@ -10,5 +10,9 @@
   "license": "MIT",
   "dependencies": {
     "hubot": ">= 2.7.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/TAKAyukiatkwsk/hubot-queue"
   }
 }
